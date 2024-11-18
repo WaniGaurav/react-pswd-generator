@@ -18,7 +18,7 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Contact](#contact)0
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>
-        <img src = "![pswd-gertr](https://github.com/user-attachments/assets/054a9c48-f95d-4038-9866-998160be5edc)">
+        <img src = "/src/assets/pswd-gertr.png">
       </td>
     </tr>
   </table>
