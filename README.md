@@ -75,5 +75,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://password-generator-rect-gw.netlify.app/)
+- Website [password-generator.com](https://password-generator-rect-gw.netlify.app/)
 - GitHub [@WaniGaurav](https://github.com/WaniGaurav)
